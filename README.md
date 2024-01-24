@@ -21,7 +21,7 @@ Twitter(X) is a static page clone of the popular social media platform Twitter, 
 
 ## Demo
 
-[Live Demo](farmaan16.github.io/X-clone/)
+[Live Demo](https://farmaan16.github.io/X-clone/)
 
 ## Features
 
