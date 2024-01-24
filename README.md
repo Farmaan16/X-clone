@@ -32,7 +32,7 @@ Twitter(X) is a static page clone of the popular social media platform Twitter, 
 - **Tweet Interaction Buttons:** Visual representation of buttons for liking, retweeting, and commenting on tweets.
 - **User Avatar and Header:** Displays user profile pictures and header images in a visually appealing manner.
 
-Note: These features are static and focus on the visual representation of Twitter's UI without actual functionality. Ensure that your README accurately reflects the nature of the project, clarifying that it is a UI clone without interactive features.
+Note: These features are static and focus on the visual representation of Twitter's UI without actual functionality.
 
 
 ## Installation
