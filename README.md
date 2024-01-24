@@ -1,7 +1,6 @@
 # X-clone
 
 
-![Twitter(X) Clone](link-to-your-screenshot.png)
 
 A static Twitter(X) clone created using HTML and Tailwind CSS.
 
